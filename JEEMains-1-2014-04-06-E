@@ -1,16 +1,16 @@
 function jEEMains120140406E(data){
 var questionData = new QuestionData("JEEMains-1-2014-04-06-E", data);
-questionData.question("Question text test",["a","b","d","c"],["JEEMains-1-2014-04-06-E","Question-61"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-62"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-63"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-64"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-65"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-66"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-67"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-68"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-69"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-70"],1);
-questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-71"],1);
+questionData.question("If $X$ = $\\{4^{n}-3n-1: n\\isin N\\}$ and $Y$ = $\\{9(n-1):n\\isin N\\}$ , where $N$ is the set of natural numbers, then $X$$\\cup$ $Y$ is equal to:",["$X$","$Y$","$N$","$Y$ - $X$"],["JEEMains-1-2014-04-06-E","Question-61"],1);
+questionData.question("If $z$ is a complex number such that $\\begin{vmatrix} z\\\\ \\end{vmatrix}$ $\\ge$ 2, thenthe minimum value of $\\begin{vmatrix} z +\\frac {1}{2} \\\\ \\end{vmatrix}$ :",["is strictly great than $\\frac {5}{2}$","is strictly greater than $\\frac {3}{2}$ but less than $\\frac {5}{2}$","is equal to $\\frac {5}{2}$","lies in the interval (1,2)"],["JEEMains-1-2014-04-06-E","Question-62"],1);
+questionData.question("If a $\\isin$ R and the equation -3(x- $\\begin{bmatrix} x \\\\ \\end{bmatrix}^{2}$ + 2(x- $\\begin{bmatrix} x \\\\ \\end{bmatrix}$) + ${a}^{y}$ = 0 (where $\\begin{bmatrix} x \\\\ \\end{bmatrix}$ denotes the greatest integer $\\le$ $x$) has no integral solution, then all possible values of a lie in the interval:",["(-2, -1)","(- $\\infin$ ,-2) $\\cup$ (2, $\\infin$)","(-1,0) $\\cup$ (0,1)","(1,2)"],["JEEMains-1-2014-04-06-E","Question-63"],1);
+questionData.question("Let $\\alpha$ and $\\beta$ be the roots of equation $p$${x}^{2}$ + $r$ = 0, p$\\ne$0. If p, q, r are A.P. and $\\frac {1}{\\alpha}$ + $\\frac {1}{\\beta}$ = 4, then the value of $\\begin{vmatrix} \\alpha - \\beta \\\\ \\end{vmatrix}$ is:",["$\\frac {\\sqrt {34}}{9}$","$\\frac {2\\sqrt {13}}{9}$","$\\frac {\\sqrt {61}}{9}$","$\\frac {2\\sqrt {17}}{9}$"],["JEEMains-1-2014-04-06-E","Question-64"],1);
+questionData.question("If $\\alpha$, $\\beta$$\\ne$0, and f(n) = $\\alpha$$^{n}$ + $\\beta$$^{n}$ and $\\begin{vmatrix} &&& 3 & 1 + f(1) & 1 + f(2)\\ \\end{vmatrix}$$\\begin{vmatrix} 1 + f(1) & 1 + f(2) & 1 + f(3) \\\\ \\end{vmatrix}$ $\\begin{vmatrix} 1 + f(2) & 1 + f(3) & 1 + f(4) \\\\ \\end{vmatrix}$ = K(1- $\\alpha$)$^{2}$ (1- $\\beta$)$^{2}$ ($\\alpha$ - $\\beta$)$^{2}$, then K is equal to:",["1","-1","$\\alpha$$\\beta$","$\\frac {1}{\\alpha\\beta}$"],["JEEMains-1-2014-04-06-E","Question-65"],1);
+questionData.question("If A is an 3x3 non - singular matrix such that AA' = A'A and B = A $^{-1}$ A', then BB' equals:",["B$^{-1}$","(B$^{-1}$)'","I+B","I"],["JEEMains-1-2014-04-06-E","Question-66"],1);
+questionData.question("If the coefficients of ${x}^{3}$ and ${x}^{4}$ in the expansion of (1+ax+b${x}^{2}$) (-2x)$^{18}$ in powers of $x$ are both zero, then (a,b) is equal to:",["(14, $\\frac {272}{3}$)","(16, $\\frac {272}{3}$)","(16, $\\frac {251}{3}$)","(14, $\\frac {251}{3}$)"],["JEEMains-1-2014-04-06-E","Question-67"],1);
+questionData.question("If (10) $^{9}$ +2(11) $^{1}$ (10) $^{8}$ + 3(11) $^{2}$ (10) $^{7}$ + ... + 10 (11) $^{9}$ = k (10) $^{9}$, then k is equal to:",["100","110","$\\frac {121}{10}$","$\\frac {441}{100}$"],["JEEMains-1-2014-04-06-E","Question-68"],1);
+questionData.question("Three positive numbers form an increasing G.P. If the middle term in this G.P. is doubled, the new numbers are in A.P. Then the common ratio of the G.P. is:",["2 - $\\sqrt {3}$","2 + $\\sqrt {3}$","$\\sqrt {2}$ + $\\sqrt {3}$","2 - $\\sqrt {2}$"],["JEEMains-1-2014-04-06-E","Question-69"],1);
+questionData.question("$\\lim\\limits_{x \\rarr 0}$ $\\frac {\\sin {(\\pi cos^{2}x)}}{{x}^{2}}$ is equal to:",["- $\\pi$","$\\pi$","$\\frac {\\pi}{2}$","1"],["JEEMains-1-2014-04-06-E","Question-70"],1);
+questionData.question("If g is the inverse of a function $f$ and $f$' ($x$) = $\\frac {1}{1 + {x}^{5}}$ , then g' ($x$) is equal to:",["","1 + {g(x)}$^{5}$","",""],["JEEMains-1-2014-04-06-E","Question-71"],1);
 questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-72"],1);
 questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-73"],1);
 questionData.question("",["","","",""],["JEEMains-1-2014-04-06-E","Question-74"],1);
